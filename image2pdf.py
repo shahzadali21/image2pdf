@@ -3,7 +3,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 
 # Change this to your image folder path
-FOLDER_IMG = r"/Users/shahzadali/Desktop/GNN_RelatedMaterial/images"
+FOLDER_IMG = r"/Users/.../Desktop/images"
 
 def main():
     # Supported image extensions
